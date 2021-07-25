@@ -2,15 +2,15 @@
   "produtos": [
     {
       "id": 1,
-      "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1567304928359",
+      "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fbr%2Fshop%2Fbuy-mac%2Fimac-imac%2F27-polegadas&psig=AOvVaw0MtTp_qAnlbrYRdKanH_bh&ust=1627339102736000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCYhNuk__ECFQAAAAAdAAAAABAJ",
       "name":"IPhone",
       "description": "Descrição do produto",
-      "price": 8000
+      "price": 5500
     },
     {
       "id": 2,
       "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1567304928359",
-      "name":"Galaxy",
+      "name":"Samsung",
       "description": "Descrição do produto",
       "price": 3000
     },
@@ -26,7 +26,7 @@
       "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1567304928359",
       "name":"Galaxy",
       "description": "Descrição do produto",
-      "price": 3000
+      "price": 7000
     }
   ]  
 }
