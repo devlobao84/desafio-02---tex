@@ -14,9 +14,6 @@ interface IProduct{
   price: number;
 }
 
-interface Test {
-  cart: IProduct[]
-}
 
 const Home: React.FC = () => {
   const [ data, setData ] = useState<IProduct[]>([]);
