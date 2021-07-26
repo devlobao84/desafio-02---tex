@@ -49,15 +49,28 @@ export const Container = styled.div`
       heigth: 50%
     }
 
-  }
-`
+    button {
+      background: #1c1c1c;
+      border: none;
+    }
 
-export const Form = styled.div`
-    form {
-      margin-left: 50%
-      width: 100% !import;
-      
+    button:hover {
+      background: #b419f4;
+      border: none;
+
+    }
+
+    form {      
+      marginTop: 50%;      
       
     }
 
+    @media (max-width 500px) {
+      section{
+        display: block;
+      }
+    }
+
+  }
 `
+
