@@ -134,7 +134,7 @@ const Home: React.FC = () => {
                 type="button"
                 onClick={handleCadastra}
               >
-                Cadastrar
+                Cadastrar cliente
               </button>
             </div>
           </div>
